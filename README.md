@@ -1,4 +1,4 @@
-#Cast-Iron Fuzz
+# Cast-Iron Fuzz
 
 An analog effects circuit for electric instruments, with gain staging and voicing suitable for lead guitar. Based on the classic Fuzz Face by Dallas Arbiter and the LPB-1 by Electro-Harmonix.
 
