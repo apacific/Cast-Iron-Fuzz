@@ -10,6 +10,8 @@ The parts were from a variety of sources; the transistors were new-old-stock sil
 
 A sheet of star stickers from the Dollar Tree was used as a mask to apply black enamel spray paint, which was then used as a mask to etch the aluminum enclosure with ferric chloride. Finished in rattle-can clearcoat in my basement.
 
+![mask applied](images/applied-mask.jpg?raw=true)
+![before drilling](images/before-drilling.jpg?raw=true)
 ![cast iron fuzz](images/cast-iron-fuzz.jpg?raw=true)
 ![fuzz pedal detail](images/cast-iron.jpg?raw=true)
 ![pedal in hand](images/cast-iron-in-hand.jpg?raw=true)
